@@ -1,5 +1,5 @@
 # OSM
-OSM: An Open Set Matting Framework with OOD Detection and Few-Shot Learning
+Implementation of the paper, OSM: An Open Set Matting Framework with OOD Detection and Few-Shot Learning.
 
 #### Citation
 ```
